@@ -1,1 +1,14 @@
-idhfiubcuwrcbiu
+
+:::::::::::::::::::::::
+algoritmo Suma_de_dos_numeros
+
+variables
+   entero n1, n2, suma
+
+inicio
+   escribir( "Introduzca primer número (entero): " )
+   leer( n1 )
+   escribir( "Introduzca segundo número (entero): " )
+   leer( n2 )
+   suma ? n1 + n2
+   escribir( "La suma es: ", suma )
